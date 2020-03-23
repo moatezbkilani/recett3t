@@ -1,3 +1,7 @@
+# recett3t
+Recipe search project to handover react
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
